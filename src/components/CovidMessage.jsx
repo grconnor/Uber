@@ -20,7 +20,6 @@ const styles = StyleSheet.create({
   container: {
     backgroundColor: "#2b80ff",
     padding: 10,
-    borderRadius: 20,
   },
   title: {
     color: "white",
