@@ -1,7 +1,7 @@
 import React from "react";
-import HomeMap from "../../components/HomeMap";
-import CovidMessage from "../../components/CovidMessage";
-import HomeSearch from "../../components/HomeSearch";
+import HomeMap from "../../components/HomeScreen/HomeMap";
+import CovidMessage from "../../components/HomeScreen/CovidMessage";
+import HomeSearch from "../../components/HomeScreen/HomeSearch";
 
 import { View, Text, StyleSheet } from "react-native";
 
